@@ -342,11 +342,11 @@ Artificial Intelligence Enthusiast | Python Developer | AI Automation for Busine
 
 **LinkedIn**
 
-https://www.linkedin.com/in/your-linkedin
+www.linkedin.com/in/taj-wali-khan-03a7693aa
 
 **GitHub**
 
-https://github.com/yourusername
+https://github.com/tajwalikhan-code
 
 ---
 
